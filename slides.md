@@ -2,7 +2,7 @@
  
 Paul Scarrone (@PaulSCoder)
 
-SavvySoftWorks
+[SavvySoftWorks](https://savvysoftworks.com)
 
 ---
 
@@ -121,4 +121,12 @@ class LongTask implements ShouldQueue
 - [localhost](localhost)
 - [localhost:8081](localhost:8081)
 
+---
 
+## Links
+
+- Beanstalkd [http://kr.github.io/beanstalkd/](http://kr.github.io/beanstalkd/)
+- Docker Win [https://docs.docker.com/docker-for-windows/](https://docs.docker.com/docker-for-windows/)
+- Docker Mac [https://docs.docker.com/docker-for-mac/](https://docs.docker.com/docker-for-mac/)
+- Laravel [https://laravel.com/](https://laravel.com/)
+- Laravel Queues [https://laravel.com/docs/5.4/queues](https://laravel.com/docs/5.4/queues)
